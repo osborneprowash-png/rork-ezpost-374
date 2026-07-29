@@ -1,0 +1,10 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "EZ Post",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
